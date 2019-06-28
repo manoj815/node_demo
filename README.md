@@ -1,1 +1,1 @@
-# node_demo
+# node and mysql database connectivity
