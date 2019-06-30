@@ -3,7 +3,7 @@ let config = {
     host: 'localhost',
     user: 'root',
     password: 'db@1234',
-    database: 'todoapp',
+    database: 'todoapps',
     debug: true
 }
 module.exports = config;
